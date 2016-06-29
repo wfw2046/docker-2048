@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM 172.30.247.174:5000/test/alpine:3.2
 
 MAINTAINER alex <alexwhen@gmail.com> 
 
