@@ -1,4 +1,4 @@
-FROM 172.30.247.174:5000/test/alpine:3.2
+FROM registry.dataos.io/library/2048:latest
 
 MAINTAINER alex <alexwhen@gmail.com> 
 
