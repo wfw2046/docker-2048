@@ -12,7 +12,7 @@ Base on nginx
 
 #dockerfile
 
-    FROM alpine:latest
+    FROM registry.dataos.io/library/2048:latest
 
     MAINTAINER alex <alexwhen@gmail.com>
 
